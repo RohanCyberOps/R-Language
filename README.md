@@ -2,12 +2,6 @@
 
 Welcome to the **R Language Projects** directory. This repository contains various projects, scripts, and experiments developed using **R**, a powerful statistical computing and data visualization language.
 
-## Project Structure
-Each project is organized in its own subdirectory and may include:
-- `sample data` – Datasets used for analysis (if applicable)
-- `scripts/` – R scripts and functions
-- `notebooks/` – RMarkdown or Jupyter notebooks for interactive exploration
-- `results/` – Generated plots, reports, or model outputs
 
 ## Prerequisites
 To work with these projects, ensure you have:
