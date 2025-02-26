@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^data-raw$
+^LICENSE\.md$
+^README.nb.html
+[.]xlsx$
+^TODO\.R$
+^glottomap\.png$
+^CITATION\.cff$
+^CRAN-RELEASE$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
+^\.github$
+^glottodata\.xlsx$
+^wc10$

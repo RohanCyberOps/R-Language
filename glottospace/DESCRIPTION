@@ -1,0 +1,55 @@
+Type: Package
+Package: glottospace
+Title: Language Mapping and Geospatial Analysis of Linguistic and Cultural
+    Data
+Version: 0.0.113
+Author: Sietze Norder, Rui Dong
+Maintainer: Rui Dong <r.dong@hum.leidenuniv.nl>
+Description: Streamlined workflows for geolinguistic analysis, including:
+    accessing global linguistic and cultural databases, data import, data
+    entry, data cleaning, data exploration, mapping, visualization and
+    export.
+License: GPL (>= 3)
+URL: https://github.com/glottospace/glottospace
+BugReports: https://github.com/glottospace/glottospace/issues
+Depends: 
+    R (>= 4.1.0)
+Imports: 
+    dplyr,
+    plyr,
+    ggplot2,
+    magrittr,
+    purrr,
+    readxl,
+    rlang,
+    rnaturalearth,
+    sf,
+    tibble,
+    tidyr,
+    units,
+    writexl,
+    rvest,
+    tmap (>= 3.99.9000),
+    TDA,
+    animation,
+    utils
+Suggests: 
+    cluster,
+    grDevices,
+    htmlwidgets,
+    jsonlite,
+    mapedit,
+    plotly,
+    RColorBrewer,
+    s2,
+    scales,
+    testthat (>= 3.0.0),
+    vegan,
+    viridisLite,
+    xml2
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+RoxygenNote: 7.2.3
+Config/testthat/edition: 3
+Remotes: github::r-tmap/tmap
